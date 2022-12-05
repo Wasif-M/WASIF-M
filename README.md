@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wasif Mehmood</h1>
 <h3 align="center">Motivated To be a Machine learning Engineer.Passionate about building models that fix problems. Relevant skills include machine learning, problem solving, programming, and creative thinking</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wasif-m&label=Profile%20views&color=0e75b6&style=flat" alt="wasif-m" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wasif-m" alt="wasif-m" /></a> </p>
 
