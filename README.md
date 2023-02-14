@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Wasif Mehmood</h1>
-<h1 align="center">Hi 👋, I'm Wasif Mehmood</h1>
 <h3 align="center">Motivated To be a Machine learning Engineer.Passionate about building models that fix problems. Relevant skills include machine learning, problem solving, programming, and creative thinking</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wasif-m" alt="wasif-m" /></a> </p>
 <h3 align="left">Connect with me:</h3>
